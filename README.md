@@ -1,3 +1,4 @@
 # Income-calculator
-JS project
-Created using native JS, HTML, CSS
+JS project, created using native JS, HTML, CSS
+
+You can see code on master branch
