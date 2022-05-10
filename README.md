@@ -1,0 +1,2 @@
+# Income-calculator
+JS project
